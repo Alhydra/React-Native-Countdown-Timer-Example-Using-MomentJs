@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "React Native Countdown Timer Example Using MomentJs",
+    "slug": "react-native-countdown-timer-example-using-momentjs",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "description":"Today we will go on another Journey to make a n elegant react native countdown timer screen example using momentJs in a simple way. for more details, check my article here https://reactnativemaster.com/react-native-countdown-timer-example-using-momentjs",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
