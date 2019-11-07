@@ -7,10 +7,10 @@
 
   
 
-My name is Youssef el habchi, from [reactnativemaster.com](https://reactnativemaster.com) I welcome each and everyone of you.
+My name is Youssef el habchi, from [React Native Master](https://reactnativemaster.com) I welcome each and everyone of you.
 
 Today we will go on another Journey to make a react native countdown timer example using momentJs.
 
 And as usual I will try to make it a bit good looking. So stay with e for a while and let’s get started.
 Feel free to read the whole article on my blog [Here](https://reactnativemaster.com/react-native-countdown-timer-example-using-momentjs/)
-If you would like to try the app on Expo, I have prepared an expo project, check it from  [Here]([https://expo.io/@alhydra/react-native-countdown-timer-example-using-momentjs](https://expo.io/@alhydra/react-native-countdown-timer-example-using-momentjs))
+If you would like to try the app on Expo, I have prepared an expo project, check it from  [Here](https://expo.io/@alhydra/react-native-countdown-timer-example-using-momentjs)
